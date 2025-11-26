@@ -9,3 +9,7 @@ This repository demonstrates how to convert and deploy a Stable Diffusion 1.5 mo
 在 AX8850 上的部署配置与推理脚本
 简单的图像生成测试与性能验证
 目标是为有 AX8850 硬件环境的用户提供一个可复现、可改造的参考项目，方便将自己的 SD1.5 模型迁移到 AX8850 上运行。
+
+推荐产品：
+m5stack LLM‑8850 Card
+m5stack AI金字塔
